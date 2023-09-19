@@ -1,3 +1,5 @@
+// Arendain, Ed Francis Kyle G. : "Work smart, work hard"
+
 // Leonor, John Lorenz: You're scared. Good to know.
 
 import 'package:flutter/material.dart';
