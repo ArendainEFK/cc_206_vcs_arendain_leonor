@@ -1,3 +1,5 @@
+// Arendain, Ed Francis Kyle G. : "Work smart, work hard"
+
 import 'package:flutter/material.dart';
 
 void main() {
